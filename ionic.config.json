@@ -1,0 +1,8 @@
+{
+  "name": "Grimorio - BotBT",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b7ab1adb"
+}
